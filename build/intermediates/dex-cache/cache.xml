@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\exploded-aar\com.android.support.test\testing-support-lib\0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2700b782e8c78b36636a15b0ed86126a96295de7">
+        <dex dex="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\pre-dexed\test\debug\classes-5e09c9b8a5df61d31ef97896fb19c7d5f6560ac5.jar" />
+    </item>
+    <item
+        jar="C:\Users\yair.carreno\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-600964267395e6cc78ce7673788480776629bdd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\yair.carreno\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.1\b988c01468e3398d46678a2eb48aeb5bde271e9f\hamcrest-library-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b988c01468e3398d46678a2eb48aeb5bde271e9f">
+        <dex dex="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\pre-dexed\test\debug\hamcrest-library-1.1-d36918a9fedb097d226059157d8155313c61af3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\yair.carreno\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.1\8d47177aa4da0f259fc823a39736bad2f09993d5\hamcrest-integration-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d47177aa4da0f259fc823a39736bad2f09993d5">
+        <dex dex="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\pre-dexed\test\debug\hamcrest-integration-1.1-404cb8d553197c4644c71e53556232c039d02fd5.jar" />
+    </item>
+    <item
+        jar="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c8b192ed44886e0cc8d23cdf35ed0aee4309ae3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\yair.carreno\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.1\860340562250678d1a344907ac75754e259cdb14\hamcrest-core-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="860340562250678d1a344907ac75754e259cdb14">
+        <dex dex="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\pre-dexed\test\debug\hamcrest-core-1.1-1ff2b260844d488b982989cf72be073e3d3e66ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\yair.carreno\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\pre-dexed\test\debug\jsr305-2.0.1-ecd23a709556b188d943af6f13e0b9e488c3e040.jar" />
+    </item>
+    <item
+        jar="C:\Users\yair.carreno\.gradle\caches\modules-2\files-2.1\junit\junit-dep\4.10\64417b3bafdecd366afa514bd5beeae6c1f85ece\junit-dep-4.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="64417b3bafdecd366afa514bd5beeae6c1f85ece">
+        <dex dex="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\pre-dexed\test\debug\junit-dep-4.10-9f50b8de989a638933f9b03cf6a599fa36f2fdbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\yair.carreno\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\pre-dexed\test\debug\javawriter-2.1.1-ff64ddce2df3a3983105d81602dac9fde852cd6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3e2095347aa9c33370eb72fea3969c0a7254e168">
+        <dex dex="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\pre-dexed\test\debug\classes-11bff7dd92653b9721206303f9e817dd6d3ba2e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\pre-dexed\debug\classes-e2654ea59602f7f30cb0daec16db0aa0d72831e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\pre-dexed\debug\classes-0116f12caea88ca0edb238f72cef1383152ccaba.jar" />
+    </item>
+    <item
+        jar="C:\Users\yair.carreno\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\pre-dexed\test\debug\javax.annotation-api-1.2-92854cf7d39c6946b386c64a35312214678e5c59.jar" />
+    </item>
+    <item
+        jar="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7cc4b00df8357dabd613998c9229ace9bba26ee2">
+        <dex dex="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\pre-dexed\test\debug\classes-131b47a03bfc8234edddd59f4d2e8e96fdab7a2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\yair.carreno\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\yair.carreno\AndroidStudioProjects\DummyOne\app\build\intermediates\pre-dexed\test\debug\javax.inject-1-99df61c11a023fed413ae1d80d50db193a6b4ace.jar" />
+    </item>
+
+</items>
